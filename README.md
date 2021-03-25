@@ -27,6 +27,7 @@ $ git remote add origin https://github.com/TandjigoraS/Project-3.git
 $ clone https://github.com/TandjigoraS/Project-3.git
 
 ```
+After, run the Android Studio software and open MyProject
 
 ***
 ## Existing Features 
