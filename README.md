@@ -2,9 +2,20 @@
 "Entrevoisins" is an application that allows the people in the same district to help ourselves as :
 Petsitting, DIY....
 ***
-# How to install the app
+# Table of contents
+* [Pre-require]
+* [How to install the app]
+* [Existing Features]
+* [New features added]
+* [Language used]
+* [Collaboration]
+
+***
 ## Pre-require
 For launch this application, it's necessary to install :
+***
+# How to install the app
+
 
 ***
 # Existing Features 
