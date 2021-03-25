@@ -12,7 +12,7 @@ Petsitting, DIY....
 * [Collaboration](#Collaboration)
 
 ***
-## Pre-require
+## Requirements
 To run this application, it's necessary to install :
 * Android Studio version 4.1.3
 * Gradle version 6.5
