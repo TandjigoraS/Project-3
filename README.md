@@ -45,9 +45,12 @@ This functionality will allows for the user to see the information of a neighbou
 ***
 ## Language used
 
-*Java
+* Java
+***
 
-## Collaboration
+## Contributors
+
+- Chiekhou Tandjigora <tandjigora.sirou@hotmail.com>
 
 
 
