@@ -29,7 +29,7 @@ $ clone https://github.com/TandjigoraS/Project-3.git
 ```
 After, run the Android Studio software and open MyProject
 
-![Android Studio](images/Android_studio.png)
+![Android Studio](images/Android_studio_image.png)
 
 ***
 ## Existing Features 
