@@ -2,7 +2,7 @@
 "Entrevoisins" is an application that allows the people in the same district to help ourselves as :
 Petsitting, DIY....
 ***
-# Table of contents
+## Table of contents
 
 * [Pre-require](#pre-require)
 * [How to install the app](#How-to-install-the-app)
@@ -12,14 +12,24 @@ Petsitting, DIY....
 * [Collaboration](#Collaboration)
 
 ***
-# Pre-require
-For launch this application, it's necessary to install :
-***
-# How to install the app
-
+## Pre-require
+To run this application, it's necessary to install :
+* Android Studio version 4.1.3
 
 ***
-# Existing Features 
+## How to install the app
+To run this project, install it locally using npm :
+
+```
+$ cd ../MyProject
+$ git init
+$ git remote add origin https://github.com/TandjigoraS/Project-3.git
+$ clone https://github.com/TandjigoraS/Project-3.git
+
+```
+
+***
+## Existing Features 
 
 * To list my neighbours
 * To add a neighbour
@@ -27,17 +37,17 @@ For launch this application, it's necessary to install :
 
 *** 
 
-# New Features added
+## New Features added
 Development of a new functionality for the app "Entrevoisins"
 The aim of this new functionality is to improve the user experience
 This functionality will allows for the user to see the information of a neighbour and add him in the list of favorite.
 
 ***
-# Language used
+## Language used
 
 *Java
 
-# Collaboration
+## Collaboration
 
 
 
