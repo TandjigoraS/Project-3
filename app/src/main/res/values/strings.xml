@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Entrevoisins</string>
+    <string name="tab_neighbour_title">My neighbours</string>
+    <string name="tab_favorites_title">Favorites</string>
+    <string name="activity_new_neighbour">New neighbour</string>
+    <string name="address_neighbour">Address</string>
+    <string name="About_me">A propos de moi</string>
+    <string name="about_me">About me</string>
+    <string name="phone_number_sym">PhoneNumberSym</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="image_avatar">ImageAvatar</string>
+    <string name="avatar_url_sym">avatarUrl</string>
+    <string name="localization_sym">localization</string>
+    <string name="favorite_button">favButton</string>
+    <string name="back_button">backButton</string>
+    <string name="save">Save</string>
+    <string name="add_neighbour_button">addNeighbourButton</string>
+    <string name="delete_neighbour_button">deleteNeighbourButton</string>
+    <string name="neighbour_name">Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
