@@ -15,10 +15,10 @@ Petsitting, DIY....
 ## Pre-require
 To run this application, it's necessary to install :
 * Android Studio version 4.1.3
-
+* Gradle version 6.5
 ***
 ## How to install the app
-To run this project, install it locally using npm :
+To run this project, install it locally using Git Bash :
 
 ```
 $ cd ../MyProject
