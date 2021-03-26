@@ -27,7 +27,7 @@ $ git remote add origin https://github.com/TandjigoraS/Project-3.git
 $ clone https://github.com/TandjigoraS/Project-3.git
 
 ```
-After, run the Android Studio software and open MyProject
+After, run the Android Studio software and open ../MyProject :
 
 ![Android Studio](images/Android_studio_image.png)
 
@@ -44,6 +44,13 @@ After, run the Android Studio software and open MyProject
 Development of a new functionality for the app "Entrevoisins"
 The aim of this new functionality is to improve the user experience
 This functionality will allows for the user to see the information of a neighbour and add him in the list of favorite.
+
+***
+## Tests 
+
+There is two classes to make the tests :
+* NeighbourInformationInstrumentedTest : 4 instrumented tests
+* NeighbourServiceTest : 5 unit tests
 
 ***
 ## Language used
